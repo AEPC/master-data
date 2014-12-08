@@ -1,0 +1,1 @@
+All rights reserved to Alternative Energy Promotion Center (AEPC)
