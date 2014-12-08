@@ -1,0 +1,76 @@
+#District No.,District Name,Development Region,Low Penetrated,Karnali && Adjoining District,Zone Code
+01,Taplejung,Purba Anchal,Yes,No,ME
+02,Panchthar,Purba Anchal,Yes,No,ME
+03,Ilam,Purba Anchal,No,No,ME
+04,Jhapa,Purba Anchal,No,No,ME
+05,Sankhuwasabha,Purba Anchal,No,No,KO
+06,Terhathum,Purba Anchal,No,No,KO
+07,Bhojpur,Purba Anchal,Yes,No,KO
+08,Dhankuta,Purba Anchal,No,No,KO
+09,Morang,Purba Anchal,No,No,KO
+10,Sunsari,Purba Anchal,No,No,KO
+11,Solukhumbu,Purba Anchal,No,No,SA
+12,Khotang,Purba Anchal,No,No,SA
+13,Okhaldhunga,Purba Anchal,Yes,No,SA
+14,Udayapur,Purba Anchal,No,No,SA
+15,Saptari,Purba Anchal,Yes,No,SA
+16,Siraha,Purba Anchal,Yes,No,SA
+17,Dolakha,Madhyam Anchal,No,No,JA
+18,Ramechhap,Madhyam Anchal,No,No,JA
+19,Sindhuli,Madhyam Anchal,No,No,JA
+20,Dhanusa,Madhyam Anchal,Yes,No,JA
+21,Mahottari,Madhyam Anchal,Yes,No,JA
+22,Sarlahi,Madhyam Anchal,No,No,JA
+23,Sindhupalchowk,Madhyam Anchal,No,No,BA
+24,Kavrepalanchowk,Madhyam Anchal,No,No,BA
+25,Bhaktapur,Madhyam Anchal,No,No,BA
+26,Lalitpur,Madhyam Anchal,No,No,BA
+27,Kathmandu,Madhyam Anchal,No,No,BA
+28,Rasuwa,Madhyam Anchal,No,No,BA
+29,Nuwakot,Madhyam Anchal,No,No,BA
+30,Dhading,Madhyam Anchal,No,No,BA
+31,Rautahat,Madhyam Anchal,No,No,NA
+32,Makawanpur,Madhyam Anchal,No,No,NA
+33,Bara,Madhyam Anchal,No,No,NA
+34,Parsa,Madhyam Anchal,Yes,No,NA
+35,Chitwan,Madhyam Anchal,No,No,NA
+36,Gorkha,Paschim Anchal,No,No,GA
+37,Lamjung,Paschim Anchal,No,No,GA
+38,Tanahu,Paschim Anchal,No,No,GA
+39,Manang,Paschim Anchal,No,No,GA
+40,Kaski,Paschim Anchal,No,No,GA
+41,Syangja,Paschim Anchal,No,No,GA
+42,Nawalparasi,Paschim Anchal,No,No,LU
+43,Palpa,Paschim Anchal,No,No,LU
+44,Rupandehi,Paschim Anchal,No,No,LU
+45,Gulmi,Paschim Anchal,No,No,LU
+46,Kapilbastu,Paschim Anchal,No,No,LU
+47,Arghakhanchi,Paschim Anchal,No,No,LU
+48,Mustang,Paschim Anchal,No,No,DH
+49,Myagdi,Paschim Anchal,No,No,DH
+50,Parbat,Paschim Anchal,No,No,DH
+51,Baglung,Paschim Anchal,Yes,No,DH
+52,Pyuthan,Madhya Paschim Anchal,No,No,RA
+53,Rukum,Madhya Paschim Anchal,Yes,Yes,RA
+54,Rolpa,Madhya Paschim Anchal,Yes,Yes,RA
+55,Dang,Madhya Paschim Anchal,No,No,RA
+56,Salyan,Madhya Paschim Anchal,Yes,No,RA
+57,Jajarkot,Madhya Paschim Anchal,No,Yes,BH
+58,Banke,Madhya Paschim Anchal,No,No,BH
+59,Bardiya,Madhya Paschim Anchal,No,No,BH
+60,Surkhet,Madhya Paschim Anchal,No,No,BH
+61,Dailekh,Madhya Paschim Anchal,Yes,Yes,BH
+62,Dolpa,Madhya Paschim Anchal,No,No,KA
+63,Jumla,Madhya Paschim Anchal,No,Yes,KA
+64,Kalikot,Madhya Paschim Anchal,No,Yes,KA
+65,Mugu,Madhya Paschim Anchal,No,Yes,KA
+66,Humla,Madhya Paschim Anchal,No,Yes,KA
+67,Bajura,Sudur Paschim Anchal,No,Yes,SE
+68,Achham,Sudur Paschim Anchal,Yes,Yes,SE
+69,Kailali,Sudur Paschim Anchal,No,No,SE
+70,Doti,Sudur Paschim Anchal,Yes,No,SE
+71,Bajhang,Sudur Paschim Anchal,No,Yes,SE
+72,Darchula,Sudur Paschim Anchal,Yes,Yes,MA
+73,Baitadi,Sudur Paschim Anchal,Yes,No,MA
+74,Dadeldhura,Sudur Paschim Anchal,Yes,No,MA
+75,Kanchanpur,Sudur Paschim Anchal,No,No,MA
